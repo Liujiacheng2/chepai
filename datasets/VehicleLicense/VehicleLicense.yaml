@@ -1,0 +1,11 @@
+# path: "C:/\u8f66\u724c\u8bc6\u522b/YOLOv5v8\u8f66\u724c\u8bc6\u522b\u7cfb\u7edf/datasets/VehicleLicense"
+path: "E://LunWen/YOLOv5v8\u8f66\u724c\u8bc6\u522b\u7cfb\u7edf/datasets/VehicleLicense"
+train: train/images/
+val: valid/images/
+test: test/images/
+nc: 4
+names:
+- License_Plate
+- cars
+- motorcyle
+- truck

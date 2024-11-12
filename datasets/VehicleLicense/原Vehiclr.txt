@@ -1,0 +1,10 @@
+path: "c:/\u8F66\u724C\u8BC6\u522B/yolov5v8\u8F66\u724C\u8BC6\u522B\u7CFB\u7EDF/datasets/VehicleLicense"
+train: train/images/
+val: valid/images/
+test: test/images/
+nc: 4
+names:
+- License_Plate
+- cars
+- motorcyle
+- truck

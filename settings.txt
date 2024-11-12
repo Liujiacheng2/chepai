@@ -1,0 +1,17 @@
+settings_version: 0.0.4
+datasets_dir: 'C:\车牌识别\YOLOv5v8车牌识别系统\datasets'
+weights_dir: weights
+runs_dir: runs
+uuid: dee4ad015fd73fa74c5364f82ac145e25e3c9e1f2ef4750a6e69d4ff314eeb44
+sync: true
+api_key: ''
+openai_api_key: ''
+clearml: true
+comet: true
+dvc: true
+hub: true
+mlflow: true
+neptune: true
+raytune: true
+tensorboard: true
+wandb: true
